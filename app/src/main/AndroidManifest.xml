@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tomisan.tomicaqin" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".ThisClassEvent"
+            android:label="@string/title_activity_this_class_event" >
+        </activity>
+        <activity
+            android:name=".OuterClassEvent"
+            android:label="@string/title_activity_outer_class_event" >
+        </activity>
+        <activity
+            android:name=".test"
+            android:label="@string/title_activity_test" >
+        </activity>
+        <activity
+            android:name=".MenuDemo"
+            android:label="@string/title_activity_menu_demo" >
+
+        </activity>
+        <activity
+            android:name=".HeightCalculatorActivity"
+            android:label="@string/title_activity_height_calculator" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CLASS1"
+            android:label="@string/title_activity_class1" >
+
+        </activity>
+    </application>
+
+</manifest>

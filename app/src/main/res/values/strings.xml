@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tomicaqin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_this_class_event">ThisClassEvent</string>
+    <string name="title_activity_outer_class_event">OuterClassEvent</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_menu_demo">MenuDemo</string>
+    <string name="title_activity_height_calculator">HeightCalculatorActivity</string>
+    <string name="title_activity_class1">CLASS1</string>
+</resources>
